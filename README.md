@@ -19,3 +19,5 @@ example:
 ![sudut60](https://user-images.githubusercontent.com/61445473/169649953-be4ddcb4-d2fa-416f-a520-08cbead69850.png)
 ### 90°
 ![sudut90](https://user-images.githubusercontent.com/61445473/169649956-417e0930-d739-44bc-8153-0284ae6ffad7.png)
+
+Link Presentasi dan Demo: https://youtu.be/qI-h3a5x7fY
